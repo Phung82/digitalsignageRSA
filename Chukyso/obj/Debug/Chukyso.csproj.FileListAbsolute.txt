@@ -1,0 +1,26 @@
+D:\ROOT\TAI LIEU\NAM-4\003-ATTT\finalPro_2\Chukyso\Chukyso\bin\Debug\Chukyso.exe.config
+D:\ROOT\TAI LIEU\NAM-4\003-ATTT\finalPro_2\Chukyso\Chukyso\bin\Debug\Chukyso.exe
+D:\ROOT\TAI LIEU\NAM-4\003-ATTT\finalPro_2\Chukyso\Chukyso\bin\Debug\Chukyso.pdb
+D:\ROOT\TAI LIEU\NAM-4\003-ATTT\finalPro_2\Chukyso\Chukyso\obj\Debug\Chukyso.csprojAssemblyReference.cache
+D:\ROOT\TAI LIEU\NAM-4\003-ATTT\finalPro_2\Chukyso\Chukyso\obj\Debug\Chukyso.Encryption_form.resources
+D:\ROOT\TAI LIEU\NAM-4\003-ATTT\finalPro_2\Chukyso\Chukyso\obj\Debug\Chukyso.Form1.resources
+D:\ROOT\TAI LIEU\NAM-4\003-ATTT\finalPro_2\Chukyso\Chukyso\obj\Debug\Chukyso.Properties.Resources.resources
+D:\ROOT\TAI LIEU\NAM-4\003-ATTT\finalPro_2\Chukyso\Chukyso\obj\Debug\Chukyso.csproj.GenerateResource.cache
+D:\ROOT\TAI LIEU\NAM-4\003-ATTT\finalPro_2\Chukyso\Chukyso\obj\Debug\Chukyso.csproj.CoreCompileInputs.cache
+D:\ROOT\TAI LIEU\NAM-4\003-ATTT\finalPro_2\Chukyso\Chukyso\obj\Debug\Chukyso.exe
+D:\ROOT\TAI LIEU\NAM-4\003-ATTT\finalPro_2\Chukyso\Chukyso\obj\Debug\Chukyso.pdb
+D:\ROOT\TAI LIEU\NAM-4\003-ATTT\finalPro_2\Chukyso\Chukyso\obj\Debug\Chukyso.GenerateRSAKey_form.resources
+D:\ROOT\TAI LIEU\NAM-4\003-ATTT\finalPro_2\Chukyso\Chukyso\obj\Debug\Chukyso.csproj.CopyComplete
+C:\Users\SB\Desktop\finalPro_2\Chukyso\Chukyso\bin\Debug\Chukyso.exe.config
+C:\Users\SB\Desktop\finalPro_2\Chukyso\Chukyso\bin\Debug\Chukyso.exe
+C:\Users\SB\Desktop\finalPro_2\Chukyso\Chukyso\bin\Debug\Chukyso.pdb
+C:\Users\SB\Desktop\finalPro_2\Chukyso\Chukyso\obj\Debug\Chukyso.csprojAssemblyReference.cache
+C:\Users\SB\Desktop\finalPro_2\Chukyso\Chukyso\obj\Debug\Chukyso.Encryption_form.resources
+C:\Users\SB\Desktop\finalPro_2\Chukyso\Chukyso\obj\Debug\Chukyso.Form1.resources
+C:\Users\SB\Desktop\finalPro_2\Chukyso\Chukyso\obj\Debug\Chukyso.GenerateRSAKey_form.resources
+C:\Users\SB\Desktop\finalPro_2\Chukyso\Chukyso\obj\Debug\Chukyso.Properties.Resources.resources
+C:\Users\SB\Desktop\finalPro_2\Chukyso\Chukyso\obj\Debug\Chukyso.csproj.GenerateResource.cache
+C:\Users\SB\Desktop\finalPro_2\Chukyso\Chukyso\obj\Debug\Chukyso.csproj.CoreCompileInputs.cache
+C:\Users\SB\Desktop\finalPro_2\Chukyso\Chukyso\obj\Debug\Chukyso.csproj.CopyComplete
+C:\Users\SB\Desktop\finalPro_2\Chukyso\Chukyso\obj\Debug\Chukyso.exe
+C:\Users\SB\Desktop\finalPro_2\Chukyso\Chukyso\obj\Debug\Chukyso.pdb

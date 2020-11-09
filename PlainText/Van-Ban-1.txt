@@ -1,0 +1,1 @@
+Khái niệm chữ ký điện tử và chữ ký số Chữ ký số là dạng chữ ký điện tử được tạo ra để thay thế người ký tên và có quyền thay đổi con dấu khi ra ngoài pháp lý.. Chữ ký điện tử là một dạng thông tin được đi kèm theo dữ liệu, dữ liệu đó có thể là: văn bản, video hoặc.
